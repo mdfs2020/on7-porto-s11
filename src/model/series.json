@@ -1,0 +1,306 @@
+[
+   {
+      "id": 1,
+      "nome": "Stranger Things",
+      "genero": [
+         "Drama",
+         "Fantasia",
+         "Suspense"
+      ],
+      "sinopse": "Will (Noah Schnapp), um menino de 12 anos, desaparece misteriosamente, o xerife Jim Hopper (David Harbour) inicia uma operação para encontrá-lo. Enquanto isso, Mike (Finn Wolfhard), Dustin (Gaten Matarazzo) e Lucas (Caleb McLaughlin), melhores amigos de Will, decidem procurá-lo por conta própria. Mas as investigações acabam levando o grupo a experimentos secretos do governo e a uma peculiar menina perdida na floresta.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 2,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": true}]
+         },
+         {
+            "id": 3,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 4,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "Netflix"
+   },
+   {
+      "id": 2,
+      "nome": "Dark",
+      "genero": [
+         "Drama",
+         "Ficção Científica",
+         "Suspense"
+      ],
+      "sinopse": "Quatro diferentes famílias - Kahnwald, Nielsen, Doppler e Tiedemann - vivem em Winden, uma pequena e aparentemente tranquila cidade alemã. A rotina dos moradores vira de cabeça para baixo quando duas crianças desaparecem misteriosamente, nas proximidades de uma antiga usina nuclear.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 2,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 3,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 4,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "Netflix",
+      "curtiu": true
+   },
+   {
+      "id": 3,
+      "nome": "The Handmaid's Tale",
+      "genero": [
+         "Drama",
+         "Ficção Científica"
+      ],
+      "sinopse": "Depois que um atentado terrorista ceifa a vida do Presidente dos Estados Unidos e de grande parte dos outros políticos eleitos, uma facção catolica toma o poder com o intuito declarado de restaurar a paz. O grupo transforma o país na República de Gilead, instaurando um regime totalitário baseado nas leis do antigo testamento, retirando os direitos das minorias e das mulheres em especial.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 2,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 3,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 4,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "Globo Play"
+   },
+   {
+      "id": 4,
+      "nome": "Rick and Morty",
+      "genero": [
+         "Aventura",
+         "Comédia",
+         "Ficção Científica",
+         "Animação"
+      ],
+      "sinopse": "Uma série animada que acompanha as aventuras e os descobrimentos de um super cientista e seu neto não muito brilhante.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 2,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 3,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 4,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 5,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "Netflix"
+   },
+   {
+      "id": 5,
+      "nome": "Chernobyl",
+      "genero": [
+         "Drama"
+      ],
+      "sinopse": "Chernobyl conta a história da explosão que aconteceu na Usina Nuclear que dá nome ao título.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "HBO"
+   },
+   {
+      "id": 6,
+      "nome": "Vikings",
+      "genero": [
+         "Aventura",
+         "Drama",
+         "Histórico"
+      ],
+      "sinopse": "Vikings segue a vida de Ragnar Lothbrok (Travis Fimmel), o maior guerreiro da sua era. Lider de seu bando, com seus irmãos e sua família, ele ascende ao poder e torna-se Rei da tribo dos vikings.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 2,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 3,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 4,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 5,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 6,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "History"
+   },
+   {
+      "id": 7,
+      "nome": "Atypical",
+      "genero": [
+         "Comédia",
+         "Drama"
+      ],
+      "sinopse": "Sam ( Keir Gilchrist) é um jovem autista de 18 anos que está em busca de sua própria independência. Nesta jornada, repleta de desafios, mas que rende algumas risadas, ele e sua família aprendem a lidar com as dificuldades da vida e descobrem que o significado de ser um pessoa normal não é tão óbvio assim.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 2,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 3,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 4,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "Netflix"
+   },
+   {
+      "id": 8,
+      "nome": "Prison Break",
+      "genero": [
+         "Drama",
+         "Suspense"
+      ],
+      "sinopse": "Após a prisão de Lincoln Burrows (Dominic Purcell), condenado por um crime que não cometeu, o engenheiro Michael Scofield (Wentworth Miller) bola um plano para tirar o irmão da cadeia.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 2,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 3,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 4,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 5,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "FOX"
+   },
+   {
+      "id": 9,
+      "nome": "Bates Motel",
+      "genero": [
+         "Drama",
+         "Policial",
+         "Suspense"
+      ],
+      "sinopse": "Após a misteriosa morte de seu marido, Norma Bates decidiu começar uma nova vida longe do Arizona, na pequena cidade de White Pine Bay, em Oregon, e leva o filho Norman, de 17 anos, com ela. Ela comprou um velho motel abandonado e a mansão ao lado. Mãe e filho sempre compartilharam uma relação complexa, quase incestuosa. Trágicos acontecimentos vai empurrá-los ainda mais.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 2,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 3,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 4,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 5,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "A&E"
+   },
+   {
+      "id": 10,
+      "nome": "The Good Place",
+      "genero": [
+         "Aventura",
+         "Comédia"
+      ],
+      "sinopse": "Eleanor Shellstrop (Kristen Bell) está morta. Acontece que, após sua partida, ela foi enviada ao Good Place - ou Lugar Bom -, um lugar de eterna felicidade destinado às pessoas que fizeram o bem durante suas vidas.",
+      "like": true,
+      "temporadas": [
+         {
+            "id": 1,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 2,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 3,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         },
+         {
+            "id": 4,
+            "episodios": [{"id": 1, "descricao": "implementar", "assistiu": false}]
+         }
+      ],
+      "canalOriginal": "NBC"
+   }
+]
